@@ -12,7 +12,7 @@ I developed a denoising algorithm for image preprocessing to enhance object reco
 	•	Poisson Noise – Noise based on Poisson distribution, often appearing in low-light photography or medical imaging.
 
 
-## Hpw the model works
+## How the model works
 Preprocessing: The model loads images and adds artificial noise (if needed).
 Training: The neural network learns to transform noisy images into clean ones.
 Testing: The trained model is evaluated on new images to assess its denoising performance.
